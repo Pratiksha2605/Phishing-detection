@@ -1,1 +1,0 @@
-web: gunicorn Real_time_detection:app
